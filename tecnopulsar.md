@@ -28,6 +28,9 @@
 | Next Js | básico |
 | Github | básico |
  
- 
+ ### Nuevos objetivos
+- Bootcamp Guillermo Rodas
+- Sofware de Carteleria Digital
+
  
  
